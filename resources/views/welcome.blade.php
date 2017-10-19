@@ -60,7 +60,7 @@
         <div class="row h-100">
           <div class="col-lg-7 my-auto">
             <div class="header-content mx-auto">
-              <h1 class="mb-5">Prueba nuestra nueva aplicación para ordenar tu pizza desde tu PC o teléfono celular.</h1>
+              <h1 class="mb-5">Prueba nuestra nueva aplicación para ohgbjhbjhbrdenar tu pizza desde tu PC o teléfono celular.</h1>
               <a href="#download" class="btn btn-outline btn-xl js-scroll-trigger">Prueba el chat</a>
             </div>
           </div>
@@ -83,20 +83,6 @@
       </div>
     </header>
 
-    <section class="download bg-primary text-center" id="download">
-      <div class="container">
-        <div class="row">
-          <div class="col-md-8 mx-auto">
-            <h2 class="section-heading">Discover what all the buzz is about!</h2>
-            <p>Our app is available on any mobile device! Download now to get started!</p>
-            <div class="badges">
-              <a class="badge-link" href="#"><img src="img/google-play-badge.svg" alt=""></a>
-              <a class="badge-link" href="#"><img src="img/app-store-badge.svg" alt=""></a>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
 
     <section class="features" id="features">
       <div class="container">
@@ -171,31 +157,7 @@
       <div class="overlay"></div>
     </section>
 
-    <section class="contact bg-primary" id="contact">
-      <div class="container">
-        <h2>We
-          <i class="fa fa-heart"></i>
-          new friends!</h2>
-        <ul class="list-inline list-social">
-          <li class="list-inline-item social-twitter">
-            <a href="#">
-              <i class="fa fa-twitter"></i>
-            </a>
-          </li>
-          <li class="list-inline-item social-facebook">
-            <a href="#">
-              <i class="fa fa-facebook"></i>
-            </a>
-          </li>
-          <li class="list-inline-item social-google-plus">
-            <a href="#">
-              <i class="fa fa-google-plus"></i>
-            </a>
-          </li>
-        </ul>
-      </div>
-    </section>
-
+   
     <footer>
       <div class="container">
         <p>&copy; 2017 Start Bootstrap. All Rights Reserved.</p>
